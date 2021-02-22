@@ -1,16 +1,32 @@
-### Hi there 👋
+### Buenas! 👋 Soy Daniel Villar 
 
-<!--
-**DvM94/DvM94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href=" https://www.linkedin.com/in/danielvillarmartin/">
+  <img align="left" alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://issuu.com/danielvillarmartin?issuu_product=header&issuu_subproduct=publisher-home&issuu_context=link&issuu_cta=profile">
+  <img align="left" alt="Issuu" width="22px" src="https://img.icons8.com/color/452/issuu.png" />
+</a>
 
-Here are some ideas to get you started:
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Sobre mí</h2>
+
+- 👷 Soy arquitecto desde 2018 
+- 🌎 Vivo en Madrid, España
+- 💻 Ahora mismo estoy estudiando un bootcamp de **Desarrollo web Fullstack**
+- 📐 Además de las herramientas que estoy aprendiendo, manejo programas como Photoshop, AutoCad o Revit
+- 🧩 Soy un fanático del orden, me encanta que cada cosa tenga su sitio
+- 📝 Puedes consultar mi curriculum [aquí](https://www.canva.com/design/DAEWVLcekgM/xLg9G2REG98DHbiS9h9VhQ/view?utm_content=DAEWVLcekgM&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+
+<h2>Conocimientos</h2>
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />
+<img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Vue.js" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" />

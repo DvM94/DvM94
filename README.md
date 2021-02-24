@@ -1,6 +1,6 @@
 ### Buenas! 👋 Soy Daniel Villar 
 
-<a href=" https://www.linkedin.com/in/danielvillarmartin/">
+<a href="https://www.linkedin.com/in/danielvillarmartin/">
   <img align="left" alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://issuu.com/danielvillarmartin?issuu_product=header&issuu_subproduct=publisher-home&issuu_context=link&issuu_cta=profile">

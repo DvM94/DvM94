@@ -14,7 +14,7 @@
 - 👷 Soy arquitecto desde 2018 
 - 🌎 Vivo en Madrid, España
 - 💻 Ahora mismo estoy estudiando un bootcamp de **Desarrollo web Fullstack**
-- 📐 Además de las herramientas que estoy aprendiendo, manejo programas como Photoshop, AutoCad o Revit
+- 📐 Además de las herramientas que estoy aprendiendo, manejo programas como [Photoshop](https://www.adobe.com/es/products/photoshop.html), [AutoCad](https://www.autodesk.es/products/autocad/overview?term=1-YEAR&support=null) o [Revit](https://www.autodesk.es/products/revit/overview?term=1-YEAR&support=null)
 - 🧩 Soy un fanático del orden, me encanta que cada cosa tenga su sitio
 - 📝 Puedes consultar mi curriculum [aquí](https://www.canva.com/design/DAEWVLcekgM/xLg9G2REG98DHbiS9h9VhQ/view?utm_content=DAEWVLcekgM&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 
